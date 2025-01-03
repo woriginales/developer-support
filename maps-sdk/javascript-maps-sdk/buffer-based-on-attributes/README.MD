@@ -4,6 +4,8 @@
 
 This sample shows how to use an attribute value as the distance when generating buffers.
 
+Created by Lingtao Xie
+
 ## How It Works
 
 1. Query the layer to be buffered. Add the result geometries and attributes (distances) to two arrays respectively. The query can be either server-side or client-side.
